@@ -1,4 +1,4 @@
-# Infinite_gauntlet
+# Infinite gauntlet snap animation
 Thanos snap animation original code by https://codepen.io/navin_moorthy/pen/OYVeLw
 
 # Here
